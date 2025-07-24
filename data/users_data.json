@@ -1,0 +1,12 @@
+{
+    "khanya123": {
+        "password": "password123",
+        "role": "reader",
+        "borrowed_books": []
+    },
+    "Tester Username": {
+        "password": "Tester Password",
+        "role": "reader",
+        "borrowed_books": []
+    }
+}

@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Book Title 2",
+        "author": "Book Author",
+        "status": true,
+        "borrowed_by": null
+    },
+    {
+        "title": "Dream Count",
+        "author": "Khanya",
+        "status": true,
+        "borrowed_by": null
+    },
+    {
+        "title": "Tester Book",
+        "author": "Tester Author",
+        "status": true,
+        "borrowed_by": null
+    }
+]
